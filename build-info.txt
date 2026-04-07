@@ -1,0 +1,13 @@
+Version: 1.2.0 
+Build Date: 07/04/2026 14:43:18,02 
+
+Files included: 
+- Modern HTML interface 
+- PWA manifest and Service Worker 
+- Original Pano2VR files 
+- All panorama images and tiles 
+
+Deployment instructions: 
+1. Upload all files to web server with HTTPS 
+2. Ensure icons are generated if PWA needed 
+3. Test in different browsers and devices 
