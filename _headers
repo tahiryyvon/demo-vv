@@ -1,0 +1,14 @@
+/*.js
+  Content-Type: application/javascript
+
+/*.xml
+  Content-Type: application/xml
+
+/*.json
+  Content-Type: application/json
+
+/tiles/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/images/*
+  Cache-Control: public, max-age=31536000, immutable
