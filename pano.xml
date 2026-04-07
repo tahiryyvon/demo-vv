@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tour appversion="7.1.8" start="node19" apprev="20986" hassounds="0">
-  <panorama id="node19">
+  <panorama id="node19" hideabout="1">
     <input overlap="1" height="1520" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="1520">
       <level height="1520" preload="0" predecode="0" width="1520"/>
       <level height="760" preload="0" predecode="0" width="760"/>
@@ -28,11 +28,12 @@
     </hotspots>
     <media/>
     <transition softedge="0" blendtime="1" zoomout="0" zoomfov="40" zoomafteroutfov="40" blendcolor="0x000000" zoomspeed="2" type="crossdissolve" zoomoutpause="1" enabled="1" zoomafterinfov="140" delay="none" zoomin="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
-    <control lockedmouse="0" sensitivity="8" zoomcentercursor="1" rubberband="0" lockedkeyboard="0" invertcontrol="1" contextvr="1" lockedwheel="0" lockedkeyboardzoom="0" contextfullscreen="1" simulatemass="1" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="0" speedwheel="1"/>
+    <control lockedmouse="0" sensitivity="8" zoomcentercursor="1" rubberband="0" lockedkeyboard="0" invertcontrol="1" contextvr="1" lockedwheel="0" lockedkeyboardzoom="0" contextfullscreen="1" simulatemass="1" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
     <vr skinbuttonposition="0" toggleskinbutton="1" defaulthsscale="100"/>
   </panorama>
-  <panorama id="node20">
+  <panorama id="node20" hideabout="1">
     <input overlap="1" height="1520" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="1520">
       <level height="1520" preload="0" predecode="0" width="1520"/>
       <level height="760" preload="0" predecode="0" width="760"/>
@@ -59,11 +60,12 @@
     </hotspots>
     <media/>
     <transition softedge="0" blendtime="1" zoomout="0" zoomfov="40" zoomafteroutfov="40" blendcolor="0x000000" zoomspeed="2" type="crossdissolve" zoomoutpause="1" enabled="1" zoomafterinfov="140" delay="none" zoomin="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
-    <control lockedmouse="0" sensitivity="8" zoomcentercursor="1" rubberband="0" lockedkeyboard="0" invertcontrol="1" contextvr="1" lockedwheel="0" lockedkeyboardzoom="0" contextfullscreen="1" simulatemass="1" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="0" speedwheel="1"/>
+    <control lockedmouse="0" sensitivity="8" zoomcentercursor="1" rubberband="0" lockedkeyboard="0" invertcontrol="1" contextvr="1" lockedwheel="0" lockedkeyboardzoom="0" contextfullscreen="1" simulatemass="1" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
     <vr skinbuttonposition="0" toggleskinbutton="1" defaulthsscale="100"/>
   </panorama>
-  <panorama id="node21">
+  <panorama id="node21" hideabout="1">
     <input overlap="1" height="1520" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="1520">
       <level height="1520" preload="0" predecode="0" width="1520"/>
       <level height="760" preload="0" predecode="0" width="760"/>
@@ -90,11 +92,12 @@
     </hotspots>
     <media/>
     <transition softedge="0" blendtime="1" zoomout="0" zoomfov="40" zoomafteroutfov="40" blendcolor="0x000000" zoomspeed="2" type="crossdissolve" zoomoutpause="1" enabled="1" zoomafterinfov="140" delay="none" zoomin="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
-    <control lockedmouse="0" sensitivity="8" zoomcentercursor="1" rubberband="0" lockedkeyboard="0" invertcontrol="1" contextvr="1" lockedwheel="0" lockedkeyboardzoom="0" contextfullscreen="1" simulatemass="1" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="0" speedwheel="1"/>
+    <control lockedmouse="0" sensitivity="8" zoomcentercursor="1" rubberband="0" lockedkeyboard="0" invertcontrol="1" contextvr="1" lockedwheel="0" lockedkeyboardzoom="0" contextfullscreen="1" simulatemass="1" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
     <vr skinbuttonposition="0" toggleskinbutton="1" defaulthsscale="100"/>
   </panorama>
-  <panorama id="node22">
+  <panorama id="node22" hideabout="1">
     <input overlap="1" height="1520" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="1520">
       <level height="1520" preload="0" predecode="0" width="1520"/>
       <level height="760" preload="0" predecode="0" width="760"/>
@@ -121,11 +124,12 @@
     </hotspots>
     <media/>
     <transition softedge="0" blendtime="1" zoomout="0" zoomfov="40" zoomafteroutfov="40" blendcolor="0x000000" zoomspeed="2" type="crossdissolve" zoomoutpause="1" enabled="1" zoomafterinfov="140" delay="none" zoomin="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
-    <control lockedmouse="0" sensitivity="8" zoomcentercursor="1" rubberband="0" lockedkeyboard="0" invertcontrol="1" contextvr="1" lockedwheel="0" lockedkeyboardzoom="0" contextfullscreen="1" simulatemass="1" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="0" speedwheel="1"/>
+    <control lockedmouse="0" sensitivity="8" zoomcentercursor="1" rubberband="0" lockedkeyboard="0" invertcontrol="1" contextvr="1" lockedwheel="0" lockedkeyboardzoom="0" contextfullscreen="1" simulatemass="1" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
     <vr skinbuttonposition="0" toggleskinbutton="1" defaulthsscale="100"/>
   </panorama>
-  <panorama id="node23">
+  <panorama id="node23" hideabout="1">
     <input overlap="1" height="1520" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="1520">
       <level height="1520" preload="0" predecode="0" width="1520"/>
       <level height="760" preload="0" predecode="0" width="760"/>
@@ -152,11 +156,12 @@
     </hotspots>
     <media/>
     <transition softedge="0" blendtime="1" zoomout="0" zoomfov="40" zoomafteroutfov="40" blendcolor="0x000000" zoomspeed="2" type="crossdissolve" zoomoutpause="1" enabled="1" zoomafterinfov="140" delay="none" zoomin="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
-    <control lockedmouse="0" sensitivity="8" zoomcentercursor="1" rubberband="0" lockedkeyboard="0" invertcontrol="1" contextvr="1" lockedwheel="0" lockedkeyboardzoom="0" contextfullscreen="1" simulatemass="1" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="0" speedwheel="1"/>
+    <control lockedmouse="0" sensitivity="8" zoomcentercursor="1" rubberband="0" lockedkeyboard="0" invertcontrol="1" contextvr="1" lockedwheel="0" lockedkeyboardzoom="0" contextfullscreen="1" simulatemass="1" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
     <vr skinbuttonposition="0" toggleskinbutton="1" defaulthsscale="100"/>
   </panorama>
-  <panorama id="node24">
+  <panorama id="node24" hideabout="1">
     <input overlap="1" height="1520" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="1520">
       <level height="1520" preload="0" predecode="0" width="1520"/>
       <level height="760" preload="0" predecode="0" width="760"/>
@@ -183,8 +188,9 @@
     </hotspots>
     <media/>
     <transition softedge="0" blendtime="1" zoomout="0" zoomfov="40" zoomafteroutfov="40" blendcolor="0x000000" zoomspeed="2" type="crossdissolve" zoomoutpause="1" enabled="1" zoomafterinfov="140" delay="none" zoomin="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
-    <control lockedmouse="0" sensitivity="8" zoomcentercursor="1" rubberband="0" lockedkeyboard="0" invertcontrol="1" contextvr="1" lockedwheel="0" lockedkeyboardzoom="0" contextfullscreen="1" simulatemass="1" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="0" speedwheel="1"/>
+    <control lockedmouse="0" sensitivity="8" zoomcentercursor="1" rubberband="0" lockedkeyboard="0" invertcontrol="1" contextvr="1" lockedwheel="0" lockedkeyboardzoom="0" contextfullscreen="1" simulatemass="1" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
     <vr skinbuttonposition="0" toggleskinbutton="1" defaulthsscale="100"/>
   </panorama>
   <masternode>
